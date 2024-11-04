@@ -7,7 +7,7 @@ let multiplier = 1000
 
 
 function preload () {
-    NanMetrify = loadFont("NaNMetrify-B-Latin/09.MetrifyB-Gigawide/TTF/NaNMetrifyBGigawide-Blck.ttf"); 
+    NanMetrify = loadFont("NaNMetrify-B-Latin/00.VF/NaNMetrifyB-VF.woff"); 
 }
 
 
