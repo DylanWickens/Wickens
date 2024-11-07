@@ -111,7 +111,7 @@ section.container {
 header {
   margin: 0;
   position: fixed;
-  top: 15px;
+  top: 25px;
   left: 63px;
   width: calc(100% - 126px);
 }
