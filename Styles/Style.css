@@ -100,7 +100,7 @@ section.container {
 
 .logotype h1 {
     font-size: 24px;
-    font-variation-settings: "wght" 600, "wdth" 900, "slnt" 0;
+    font-variation-settings: "wght" 200, "wdth" 900, "slnt" 0;
     transition:  font-variation-settings 0.3s;
 }
 
